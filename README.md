@@ -19,6 +19,6 @@ Enjoy ;)
 *Yes It Works on REPLIT*
 
 **Discord Server:**
-[https://discord.gg/tVWrU5PWZV](https://discord.gg/tVWrU5PWZV)
+[https://discord.gg/tVWrU5PWZV](https://discord.gg/QMQEsWAUkW)
 
 
