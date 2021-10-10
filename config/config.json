@@ -1,0 +1,10 @@
+{
+    "token": "your_bot_token",
+    "prefix": ".",
+    "ownerID": "639623346232754206",
+    "footertext": "Coded By DNA#1466",
+    "colors": {
+        "yes": "BLUE",
+        "no": "RED"
+    }
+}
